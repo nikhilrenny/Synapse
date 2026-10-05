@@ -15,7 +15,7 @@ Trigger/Sync FSM and controlled by a Cortex-M0.
 - Stim path: pulse generator, current DAC, limiter
 - 4-electrode switch shared by both paths
 
-See `docs/` for the block diagram.
+![SYNAPSE block diagram](docs/block-diagram.png)
 
 ## Layout
 - `rtl/`   Verilog sources
